@@ -60,13 +60,11 @@ Enter your choice:
 
 ```
 movie-manager-cli/
-├── main.py              # Entry point
-├── movies.txt           # Persistent data file (auto-generated)
+├── MovieManagementSystem_Project.py              
+├── movies.txt        
 ├── README.md
-└── ...
+└── LICENSE
 ```
-
-> Update this section to match your actual file names.
 
 ## What I Learned
 

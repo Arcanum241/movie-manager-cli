@@ -1,4 +1,3 @@
-# movie-manager-cli
 # Movie Management System
 
 A command-line movie management application built with Python, featuring 13 operations across CRUD, search, filtering, sorting, and analytics — with persistent file storage and exception handling.
